@@ -12,10 +12,4 @@ dhanoop7/dhanoop7 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-> git  clone <repo url>
-> cd <repo folder>
-> git branch <branch name>
-> git checkout <branch name>
-> git add .
-> git commit -m "Initial commit"
-> git push -u origin <branch name>
+
